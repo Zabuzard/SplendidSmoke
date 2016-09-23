@@ -1,5 +1,5 @@
 # SplendidSmoke
-Modification for the game 'ArmA 3'. The mod reworkes the smoke effects of various weapons and events.
+Modification for the game 'ArmA 3'. The mod reworks the smoke effects of various weapons and events.
 
 The available documentation can be found in [our wiki](https://github.com/ZabuzaW/SplendidSmoke/wiki).
 
