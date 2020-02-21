@@ -1,12 +1,12 @@
-******* Splendid Smoke > reworked smoke effects *******
+# Splendid Smoke > reworked smoke effects
 
-**** Bistudio Forum ****
-http://forums.bistudio.com/showthread.php?188634-Mighty-GAU-8-A-Avenger
+## Bistudios Forum
+[Link](http://forums.bistudio.com/showthread.php?188634-Mighty-GAU-8-A-Avenger)
 
-**** GitHub ****
-https://github.com/ZabuzaW/SplendidSmoke
+## GitHub
+[Link](https://github.com/ZabuzaW/SplendidSmoke)
 
-**** Features ****
+## Features 
 - reworked effects of smoke grenades
   - double the size
   - more volume due to increased spreading
@@ -16,10 +16,10 @@ https://github.com/ZabuzaW/SplendidSmoke
 - small and compact, no overhead
 - performant
 
-**** Questions, Remarks or support wishes? ****
+## Questions, Remarks or support wishes? 
 We would like to help you, please contact us at the Bistudio Forum or at GitHub!
 
-**** Problems? ****
+# Problems? 
 Check if you got the newest version (refer to versions.txt)
 
 - The smoke effect does not look like in the video?
